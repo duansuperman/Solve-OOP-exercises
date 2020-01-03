@@ -1,0 +1,18 @@
+﻿Build started 8/13/2018 11:37:18 PM.
+     1>Project "D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\3.Sinh viên\3.Sinh viên.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\giai bài tập hướng đối tượng\bài tập hướng đối tượng\3.sinh viên\source.cpp(44): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+     1>d:\giai bài tập hướng đối tượng\bài tập hướng đối tượng\3.sinh viên\source.cpp(44): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+     1>d:\giai bài tập hướng đối tượng\bài tập hướng đối tượng\3.sinh viên\source.cpp(139): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\giai bài tập hướng đối tượng\bài tập hướng đối tượng\3.sinh viên\source.cpp(140): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\giai bài tập hướng đối tượng\bài tập hướng đối tượng\3.sinh viên\source.cpp(146): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\Debug\3.Sinh viên.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\Debug\3.Sinh viên.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\Debug\3.Sinh viên.lib" /MACHINE:X86 Debug\Source.obj
+         3.Sinh viên.vcxproj -> D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\Debug\3.Sinh viên.exe
+     1>Done Building Project "D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\3.Sinh viên\3.Sinh viên.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16

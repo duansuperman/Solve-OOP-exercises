@@ -1,0 +1,11 @@
+﻿Build started 11/29/2018 12:16:22 PM.
+     1>Project "D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\30.Template 2\30.Template 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\giai bài tập hướng đối tượng\bài tập hướng đối tượng\30.template 2\source.cpp(28): error C4716: 'operator>>' : must return a value
+     1>Done Building Project "D:\Giai bài tập hướng đối tượng\Bài tập hướng đối tượng\30.Template 2\30.Template 2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.57
